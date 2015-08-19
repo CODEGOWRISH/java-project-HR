@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE Employees SYSTEM "Employee_BasicData.dtd">
+<Employees>
+  <Employee>
+    <name>Gowrish</name>
+    <dept>DBA</dept>
+    <joindate>01-01-2001</joindate>
+  </Employee>
+  <Employee>
+    <name>Ramesh</name>
+    <dept>UNIX</dept>
+    <joindate>01-01-1991</joindate>
+  </Employee>
+  <Employee>
+  	<name>Suresh</name>
+  	<dept>NETWORKING</dept>
+  	<joindate>01-01-1981</joindate>
+  </Employee>
+</Employees>
