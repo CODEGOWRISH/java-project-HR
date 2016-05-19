@@ -7,7 +7,6 @@ import javax.xml.parsers.*;
 import java.io.*;
 
 /**
- * @author DBGSM0
  * 
  * Parses XML file of employee data and outputs formatted report
  *
