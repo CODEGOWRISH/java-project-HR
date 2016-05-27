@@ -1,12 +1,8 @@
 /**
  * 
  */
-package gow.demo.hr;
+package mt.demo.hr;
 
-/**
- * @author DBGSM0
- *
- */
 public interface IEmpActions {
 
 }
